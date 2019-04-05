@@ -5,7 +5,7 @@ inventaire:
   - épée longue
 personnages:
   - moi:
-    - santé: 4
+    - santé: 2
   - chevalier_noir:
     - santé: 9
   - lion:
